@@ -8,7 +8,11 @@ This project showcases how to capture data from an HTML form and transmit it to 
 
 🛠️ Features : 
 
-HTML Form: Captures user input.
-Server Handling: Processes and responds to form submissions.
+HTML Form: Captures user input.  
+
+
+Server Handling: Processes and responds to form submissions. 
+
+
 Admin Dashboard: Utilizes the Matrix Admin Bootstrap 5 template for administrative interfaces.
  
